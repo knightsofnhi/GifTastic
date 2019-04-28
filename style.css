@@ -1,0 +1,59 @@
+body {
+    width: 100%;
+    min-height: 100%;
+    background-image: linear-gradient(to right, #c0d8cd 0%, #4e434c 100%);
+  }
+  
+  .pagecontainer {
+    box-sizing: border-box;
+    margin: 0;
+    height: 100%;
+    padding-bottom: 12rem;
+    position: relative;
+  }
+  
+  .jumbotron {
+    background-image: url("https://media.giphy.com/media/xTiTnzlDKzOoIN9br2/giphy.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+
+  .display-4 {
+    font-size: 70px;
+    color: #8e0fe2a9;
+  }
+  
+  .intro {
+    color: rgb(190, 162, 190);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+  }
+  
+  /* individual buttons */
+  .dream {
+    margin: 5px;
+  }
+  
+  .form-group {
+    font-family: "Armata", sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+  }
+  
+  .card {
+    margin-top: 25px;
+    width: 25%;
+  }
+  
+  .card-body {
+    padding: 10px;
+    background-color: #756a6a77;
+  }
+
+  .sidebar {
+    background-color: rgb(190, 162, 190);
+    height: 100%;
+    padding: 10px;
+  }
